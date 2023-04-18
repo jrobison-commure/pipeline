@@ -1,3 +1,5 @@
+# Reference: https://docs.github.com/en/actions/reference/events-that-trigger-workflows#pull_request_target
+# Reference:  https://blog.gitguardian.com/github-actions-security-cheat-sheet/
 # name: my action
 # on: pull_request_target
 
